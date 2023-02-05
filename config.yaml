@@ -2,4 +2,4 @@ obsidian_entrypoint_path_str: music/_all_of_music.md
 toggles: 
     process_all: true
 site_name: 'music'
-html_url_prefix: '/music'
+html_url_prefix: '/Music'

@@ -30,8 +30,8 @@ jobs:
         
       - name: Build site
         run: |
-          obsidianhtml convert -i /home/runner/work/music/music/config.yaml
-          cp -r /home/runner/work/music/music/output/html/. .
+          obsidianhtml convert -i /home/runner/work/music/config.yaml
+          cp -r /home/runner/work/music/output/html/. .
  
       - name: add
         run: |

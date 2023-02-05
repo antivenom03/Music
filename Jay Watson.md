@@ -1,2 +1,0 @@
-[[Tame Impala]]
-[[Pond]]

@@ -1,2 +1,0 @@
-[[Dallon Weekes]]
-[[Ryan Seaman]]

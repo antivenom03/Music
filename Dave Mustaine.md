@@ -1,3 +1,0 @@
-[[Metallica]]
-[[Megadeth]]
-#artist 

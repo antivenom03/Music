@@ -10,7 +10,7 @@ var CONFIGURED_HTML_URL_PREFIX = "/music";
 var RELATIVE_PATHS = 0;
 var documentation_mode = 1;
 var tab_mode = !no_tab_mode;
-var gzip_hash = '64634795979116997698426603985051013794'                       // used to check whether the localStorage data is stale
+var gzip_hash = '146339195446852384407601508839120217781'                       // used to check whether the localStorage data is stale
 
 // global cache
 var fn_cache_ls_available = null;

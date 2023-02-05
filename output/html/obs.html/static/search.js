@@ -6,7 +6,7 @@ var SEARCH_DATA = [];                          // SEARCH_DATA_SOURCE with change
 
 var URL_MODE = 'absolute';
 var RELATIVE_PATHS = 0;
-var CONFIGURED_HTML_URL_PREFIX = '/music';
+var CONFIGURED_HTML_URL_PREFIX = '/Music';
 
 var fuse;                               // fuzzy search object
 var index;

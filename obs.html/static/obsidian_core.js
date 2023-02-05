@@ -5,12 +5,12 @@ var no_tab_mode = 1;
 var mermaid_enabled = 1;
 var toc_pane_div = "right_pane_content";
 var dir_index_pane_div = "";
-var html_url_prefix = "/music";
-var CONFIGURED_HTML_URL_PREFIX = "/music";
+var html_url_prefix = "/Music";
+var CONFIGURED_HTML_URL_PREFIX = "/Music";
 var RELATIVE_PATHS = 0;
 var documentation_mode = 1;
 var tab_mode = !no_tab_mode;
-var gzip_hash = '146339195446852384407601508839120217781'                       // used to check whether the localStorage data is stale
+var gzip_hash = '201897438666538644821999450726844695925'                       // used to check whether the localStorage data is stale
 
 // global cache
 var fn_cache_ls_available = null;
@@ -477,7 +477,7 @@ function get_graph_data(){
     return get_html_url_prefix()+'/obs.html/data/graph.json';
 }
 function get_html_url_prefix(){
-    return '/music'  // this value is replaced by the actual url prefix when compiled
+    return '/Music'  // this value is replaced by the actual url prefix when compiled
 }
 
 function signal_js_enabled(container){

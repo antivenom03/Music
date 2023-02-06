@@ -1,4 +1,4 @@
-```js
+
 <a href="javascript:openSite()">Click to go to a random site</a>
 <script>
 function openSite() {

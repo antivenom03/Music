@@ -5,5 +5,5 @@ tags:
 ---
    
 [Gorillaz](./Gorillaz.md)   
-[Blur](/not_created.md)   
+[Blur](./Blur.md)   
 `{_obsidian_pattern_tag_artist}`

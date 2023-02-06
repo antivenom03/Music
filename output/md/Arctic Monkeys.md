@@ -4,8 +4,8 @@ tags:
 - Group
 ---
    
-[Alex Turner](/not_created.md)   
-[Jamie Cook](/not_created.md)   
-[Matt Helders](/not_created.md)   
-[Nick O'Malley](/not_created.md)   
+[Alex Turner](./Alex%20Turner.md)   
+[Jamie Cook](./Jamie%20Cook.md)   
+[Matt Helders](./Matt%20Helders.md)   
+[Nick O'Malley](./Nick%20O%27Malley.md)   
 `{_obsidian_pattern_tag_Group}`

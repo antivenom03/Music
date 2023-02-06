@@ -37,6 +37,7 @@
  [[Deftones|Deftones]]
  [[Eagles of Death Metal|Eagles of Death Metal]]
  [[Fall out Boy|Fall out Boy]]
+ [[Falling in Reverse|Falling in Reverse]]
  [[Foo Fighters|Foo Fighters]]
  [[Frank Delgado|Frank Delgado]]
  [[Glass Animals|Glass Animals]]

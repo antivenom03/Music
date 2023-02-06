@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_all_of_Music.md",
+                "file": "Dallon Weekes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_all_of_Music.md",
+            "file": "Dallon Weekes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_all_of_Music.md",
+            "file": "Dallon Weekes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_all_of_Music.md"
+            "file": "Dallon Weekes.md"
           }
         }
       }
@@ -123,14 +123,15 @@
   },
   "active": "519005d42c64bd18",
   "lastOpenFiles": [
+    "Falling in Reverse.md",
+    "Ryan Seaman.md",
+    "I Don't Know How but They Found Me.md",
+    "Dallon Weekes.md",
+    "_all_of_Music.md",
     "12 bar bruise.md",
     "King Gizzard and the Lizard Wizard.md",
     "Les Claypool.md",
-    "_all_of_Music.md",
     "Alien ant farm.md",
-    "All Time Low.md",
-    "Black Sabbath.md",
-    "_all_of_music.md",
-    "Aerosmith.md"
+    "All Time Low.md"
   ]
 }

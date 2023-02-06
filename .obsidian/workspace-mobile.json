@@ -8,13 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "519005d42c64bd18",
+            "id": "76fc580df0e9ea05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dallon Weekes.md",
+                "file": "Blur.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dallon Weekes.md",
+            "file": "Blur.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dallon Weekes.md",
+            "file": "Blur.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,24 +115,24 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dallon Weekes.md"
+            "file": "Blur.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "519005d42c64bd18",
+  "active": "76fc580df0e9ea05",
   "lastOpenFiles": [
-    "Falling in Reverse.md",
-    "Ryan Seaman.md",
-    "I Don't Know How but They Found Me.md",
-    "Dallon Weekes.md",
-    "_all_of_Music.md",
-    "12 bar bruise.md",
+    "Damon Albarn.md",
+    "Cavetown.md",
+    "Anthrax.md",
     "King Gizzard and the Lizard Wizard.md",
-    "Les Claypool.md",
-    "Alien ant farm.md",
-    "All Time Low.md"
+    "Eric Moore.md",
+    "Michael Cavanagh.md",
+    "Lucas Harwood.md",
+    "Joey Walker.md",
+    "Stu Mackenzie.md",
+    "_all_of_Music.md"
   ]
 }

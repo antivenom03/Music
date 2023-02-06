@@ -11,8 +11,12 @@
             "id": "519005d42c64bd18",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_all_of_music.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "_all_of_music.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "_all_of_music.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,12 +113,14 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "_all_of_music.md"
+          }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "cfa9d9c93197ff47",
+  "active": "519005d42c64bd18",
   "lastOpenFiles": []
 }

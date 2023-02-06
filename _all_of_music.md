@@ -1,5 +1,8 @@
 ```js
-const allURLs = Array.from(document.querySelectorAll('a')).
+<script>
+	var allURLs = Array.from(document.querySelectorAll('a'));
+	
+
 map(el => el.getAttribute('href')).
 filter(url=> url && url !== '#');
 ```

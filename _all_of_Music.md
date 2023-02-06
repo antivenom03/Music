@@ -3,7 +3,7 @@
 <script>
   let links = Array.from(document.querySelectorAll("a"));
   links.forEach(function(link) {
-    link.style.display = "none";
+    link.style.display = "none !important";
   });
 
   document.getElementById("go-to-random-page").addEventListener("click", function() {

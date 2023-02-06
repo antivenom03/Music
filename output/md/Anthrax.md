@@ -12,7 +12,7 @@ tags:
 [Dan Lilker](/not_created.md)   
 [David Weiss](/not_created.md)   
 [John Connelly](/not_created.md)   
-[Paul Kahn](/not_created.md)   
+[Paul Kahn](./Paul%20Kahn.md)   
 [Kenny Kushner](/not_created.md)   
 [Dirk Kennedy](/not_created.md)   
 [Greg Walls](/not_created.md)   

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Black Sabbath.md",
-                "mode": "preview",
+                "file": "_all_of_Music.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Black Sabbath.md",
+                "file": "_all_of_Music.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Black Sabbath.md",
+            "file": "_all_of_Music.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Black Sabbath.md",
+            "file": "_all_of_Music.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Black Sabbath.md"
+            "file": "_all_of_Music.md"
           }
         }
       }
@@ -144,8 +144,8 @@
   },
   "active": "76fc580df0e9ea05",
   "lastOpenFiles": [
-    "Ozzy Osbourne.md",
     "Black Sabbath.md",
+    "Ozzy Osbourne.md",
     "Terence \"Geezer Butler\".md",
     "Bill Ward.md",
     "Tony Iommi.md",

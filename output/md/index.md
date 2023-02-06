@@ -41,6 +41,7 @@ tags: []
  [Deftones](./Deftones.md)   
  [Eagles of Death Metal](./Eagles%20of%20Death%20Metal.md)   
  [Fall out Boy](./Fall%20out%20Boy.md)   
+ [Falling in Reverse](./Falling%20in%20Reverse.md)   
  [Foo Fighters](./Foo%20Fighters.md)   
  [Frank Delgado](./Frank%20Delgado.md)   
  [Glass Animals](./Glass%20Animals.md)   

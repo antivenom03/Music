@@ -11,12 +11,8 @@
             "id": "519005d42c64bd18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_all_of_Music.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_all_of_Music.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_all_of_Music.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "_all_of_Music.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -123,8 +115,11 @@
   },
   "active": "519005d42c64bd18",
   "lastOpenFiles": [
-    "Alien ant farm.md",
+    "12 bar bruise.md",
+    "King Gizzard and the Lizard Wizard.md",
+    "Les Claypool.md",
     "_all_of_Music.md",
+    "Alien ant farm.md",
     "All Time Low.md",
     "Black Sabbath.md",
     "_all_of_music.md",

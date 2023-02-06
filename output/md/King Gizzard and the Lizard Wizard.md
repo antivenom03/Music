@@ -4,6 +4,7 @@ tags:
 - Group
 ---
    
+Members   
 [Stu Mackenzie](/not_created.md)   
 [Ambrose Kenny-Smith](./Ambrose%20Kenny-Smith.md)   
 [Joey Walker](/not_created.md)   
@@ -11,4 +12,6 @@ tags:
 [Lucas Harwood](/not_created.md)   
 [Michael Cavanagh](/not_created.md)   
 [Eric Moore](/not_created.md)   
+Albums   
+[12 bar bruise](./12%20bar%20bruise.md)   
 `{_obsidian_pattern_tag_Group}`

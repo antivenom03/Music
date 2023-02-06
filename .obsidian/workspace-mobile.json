@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blur.md",
+                "file": "Clay Gober.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Blur.md",
+            "file": "Clay Gober.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Blur.md",
+            "file": "Clay Gober.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Blur.md"
+            "file": "Clay Gober.md"
           }
         }
       }
@@ -124,15 +124,15 @@
   },
   "active": "76fc580df0e9ea05",
   "lastOpenFiles": [
+    "Chloe Moriondo.md",
+    "Black Midi.md",
+    "Babe Rainbow.md",
+    "Architects.md",
+    "Ambrose Kenny-Smith.md",
+    "Alien ant farm.md",
+    "Blur.md",
     "Damon Albarn.md",
     "Cavetown.md",
-    "Anthrax.md",
-    "King Gizzard and the Lizard Wizard.md",
-    "Eric Moore.md",
-    "Michael Cavanagh.md",
-    "Lucas Harwood.md",
-    "Joey Walker.md",
-    "Stu Mackenzie.md",
-    "_all_of_Music.md"
+    "Anthrax.md"
   ]
 }

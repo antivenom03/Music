@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_all_of_music.md",
+                "file": "_all_of_Music.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_all_of_music.md",
+            "file": "_all_of_Music.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_all_of_music.md",
+            "file": "_all_of_Music.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_all_of_music.md"
+            "file": "_all_of_Music.md"
           }
         }
       }
@@ -122,5 +122,12 @@
     "currentTab": 0
   },
   "active": "519005d42c64bd18",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Alien ant farm.md",
+    "_all_of_Music.md",
+    "All Time Low.md",
+    "Black Sabbath.md",
+    "_all_of_music.md",
+    "Aerosmith.md"
+  ]
 }

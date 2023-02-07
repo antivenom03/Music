@@ -92,6 +92,7 @@ tags: []
  [Ryan Seaman](./Ryan%20Seaman.md)   
  [Scott LePage](./Scott%20LePage.md)   
  [Slayer](./Slayer.md)   
+ [Sofi Tukker](./Sofi%20Tukker.md)   
  [Stu Mackenzie](./Stu%20Mackenzie.md)   
  [Tame Impala](./Tame%20Impala.md)   
  [Teeth](./Teeth.md)   

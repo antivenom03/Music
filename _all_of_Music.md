@@ -48,6 +48,7 @@
  [[Gorillaz|Gorillaz]]
  [[Green Day|Green Day]]
  [[Haley Williams|Haley Williams]]
+ [[Hippie hourrah|Hippie hourrah]]
  [[Homepage|Homepage]]
  [[I Don't Know How but They Found Me|I Don't Know How but They Found Me]]
  [[Incubus|Incubus]]

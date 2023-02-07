@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sofi Tukker.md",
+                "file": "Hippie hourrah.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,7 +33,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sofi Tukker.md",
+                "file": "Hippie hourrah.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Sofi Tukker.md",
+            "file": "Hippie hourrah.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Sofi Tukker.md",
+            "file": "Hippie hourrah.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Sofi Tukker.md"
+            "file": "Hippie hourrah.md"
           }
         }
       }
@@ -144,6 +144,7 @@
   },
   "active": "76fc580df0e9ea05",
   "lastOpenFiles": [
+    "Sofi Tukker.md",
     "_all_of_Music.md",
     "Black Sabbath.md",
     "Ozzy Osbourne.md",
@@ -152,7 +153,6 @@
     "Tony Iommi.md",
     "Anthrax.md",
     "Paul Kahn.md",
-    "Architects.md",
-    "Clay Gober.md"
+    "Architects.md"
   ]
 }

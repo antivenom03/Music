@@ -88,6 +88,7 @@
  [[Ryan Seaman|Ryan Seaman]]
  [[Scott LePage|Scott LePage]]
  [[Slayer|Slayer]]
+ [[Sofi Tukker|Sofi Tukker]]
  [[Stu Mackenzie|Stu Mackenzie]]
  [[Tame Impala|Tame Impala]]
  [[Teeth|Teeth]]

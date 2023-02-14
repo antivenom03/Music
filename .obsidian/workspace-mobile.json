@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hippie hourrah.md",
+                "file": "King Gizzard and the Lizard Wizard.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,7 +33,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hippie hourrah.md",
+                "file": "King Gizzard and the Lizard Wizard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Hippie hourrah.md",
+            "file": "King Gizzard and the Lizard Wizard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Hippie hourrah.md",
+            "file": "King Gizzard and the Lizard Wizard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Hippie hourrah.md"
+            "file": "King Gizzard and the Lizard Wizard.md"
           }
         }
       }
@@ -144,15 +144,15 @@
   },
   "active": "76fc580df0e9ea05",
   "lastOpenFiles": [
+    "Joey Walker.md",
+    "King Gizzard and the Lizard Wizard.md",
+    "Hippie hourrah.md",
     "Sofi Tukker.md",
     "_all_of_Music.md",
     "Black Sabbath.md",
     "Ozzy Osbourne.md",
     "Terence \"Geezer Butler\".md",
     "Bill Ward.md",
-    "Tony Iommi.md",
-    "Anthrax.md",
-    "Paul Kahn.md",
-    "Architects.md"
+    "Tony Iommi.md"
   ]
 }

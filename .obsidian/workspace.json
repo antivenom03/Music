@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "682eecdb8b563004",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce7671130ac94bb8",
+  "active": "682eecdb8b563004",
   "lastOpenFiles": [
     "AFI.md",
     "_all_of_music.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_all_of_Music.md",
+                "file": "Artists/Cavetown.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_all_of_Music.md",
+                "file": "Artists/Cavetown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_all_of_Music.md",
+                "file": "Artists/Cavetown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_all_of_Music.md"
+                "file": "Artists/Cavetown.md"
               }
             }
           }
@@ -148,31 +148,36 @@
   },
   "active": "ce7671130ac94bb8",
   "lastOpenFiles": [
+    "Artists/Alex Turner.md",
     "_all_of_music.md",
     "_all_of_Music.md",
-    "Tony Iommi.md",
-    "Stu Mackenzie.md",
-    "Sofi Tukker.md",
-    "Paul Kahn.md",
-    "Ozzy Osbourne.md",
-    "Nick O'Malley.md",
-    "Michael Cavanagh.md",
-    "Matt Helders.md",
-    "Lucas Harwood.md",
-    "Joey Walker.md",
-    "Jamie Cook.md",
-    "Hippie hourrah.md",
-    "Falling in Reverse.md",
-    "Eric Moore.md",
-    "Blur.md",
-    "Bill Ward.md",
-    "Alien ant farm.md",
-    "Alex Turner.md",
-    "Aerosmith.md",
-    "12 bar bruise.md",
-    "AFI.md",
-    "The White Stripes.md",
-    "Iron Maiden.md",
-    "all_of_music.md"
+    "Homepage.md",
+    "Albums/_all_of_Albums.md",
+    "Albums",
+    "Groups/_all_of_Groups.md",
+    "Artists/_all_of_Artists.md",
+    "Songs",
+    "Albums",
+    "Artists",
+    "Groups",
+    "Artists/Tony Iommi.md",
+    "Artists/Stu Mackenzie.md",
+    "Artists/Sofi Tukker.md",
+    "Artists/Paul Kahn.md",
+    "Artists/Ozzy Osbourne.md",
+    "Artists/Nick O'Malley.md",
+    "Artists/Michael Cavanagh.md",
+    "Artists/Matt Helders.md",
+    "Artists/Lucas Harwood.md",
+    "Artists/Joey Walker.md",
+    "Artists/Jamie Cook.md",
+    "Groups/Hippie hourrah.md",
+    "Groups/Falling in Reverse.md",
+    "Artists/Eric Moore.md",
+    "Groups/Blur.md",
+    "Artists/Bill Ward.md",
+    "Groups/Alien ant farm.md",
+    "Groups/Aerosmith.md",
+    "Albums/12 bar bruise.md"
   ]
 }

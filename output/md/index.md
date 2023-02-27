@@ -97,7 +97,7 @@ tags: []
  [Stu Mackenzie](./Stu%20Mackenzie.md)   
  [Tame Impala](./Tame%20Impala.md)   
  [Teeth](./Teeth.md)   
- [Terence "Geezer Butler"](./Terence%20%22Geezer%20Butler%22.md)   
+ [Terence "Geezer Butler"](/not_created.md)   
  [The Claypool Lennon Delirium](./The%20Claypool%20Lennon%20Delirium.md)   
  [The Dead Weather](./The%20Dead%20Weather.md)   
  [The Desert Sessions](./The%20Desert%20Sessions.md)   

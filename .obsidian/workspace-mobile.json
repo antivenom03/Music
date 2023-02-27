@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "King Gizzard and the Lizard Wizard.md",
+                "file": "_all_of_Music.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,7 +33,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "King Gizzard and the Lizard Wizard.md",
+                "file": "_all_of_Music.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "King Gizzard and the Lizard Wizard.md",
+            "file": "_all_of_Music.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "King Gizzard and the Lizard Wizard.md",
+            "file": "_all_of_Music.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "King Gizzard and the Lizard Wizard.md"
+            "file": "_all_of_Music.md"
           }
         }
       }
@@ -153,11 +153,12 @@
   },
   "active": "76fc580df0e9ea05",
   "lastOpenFiles": [
-    "Joey Walker.md",
     "King Gizzard and the Lizard Wizard.md",
+    "_all_of_Music.md",
+    "/_all_of_Music.md",
+    "Joey Walker.md",
     "Hippie hourrah.md",
     "Sofi Tukker.md",
-    "_all_of_Music.md",
     "Black Sabbath.md",
     "Ozzy Osbourne.md",
     "Terence \"Geezer Butler\".md",

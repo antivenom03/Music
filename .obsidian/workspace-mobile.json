@@ -8,12 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "519005d42c64bd18",
+            "id": "76fc580df0e9ea05",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
+              "type": "markdown",
+              "state": {
+                "file": "King Gizzard and the Lizard Wizard.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            },
+            "group": "50e68526b2cd02b6"
+          }
+        ]
+      },
+      {
+        "id": "dec19051587dacb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0e855b7d0d6e5ec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "King Gizzard and the Lizard Wizard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "group": "50e68526b2cd02b6"
           }
         ]
       }
@@ -81,6 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "King Gizzard and the Lizard Wizard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "King Gizzard and the Lizard Wizard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,12 +134,25 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "King Gizzard and the Lizard Wizard.md"
+          }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "cfa9d9c93197ff47",
-  "lastOpenFiles": []
+  "active": "76fc580df0e9ea05",
+  "lastOpenFiles": [
+    "Joey Walker.md",
+    "King Gizzard and the Lizard Wizard.md",
+    "Hippie hourrah.md",
+    "Sofi Tukker.md",
+    "_all_of_Music.md",
+    "Black Sabbath.md",
+    "Ozzy Osbourne.md",
+    "Terence \"Geezer Butler\".md",
+    "Bill Ward.md",
+    "Tony Iommi.md"
+  ]
 }

@@ -1,3 +1,4 @@
+Members
 [[Stu Mackenzie]]
 [[Ambrose Kenny-Smith]]
 [[Joey Walker]]
@@ -5,4 +6,6 @@
 [[Lucas Harwood]]
 [[Michael Cavanagh]]
 [[Eric Moore]]
+Albums
+[[12 bar bruise]]
 #Group 

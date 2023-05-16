@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_all_of_Music.md",
+                "file": "The Desert Sessions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,7 +33,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_all_of_Music.md",
+                "file": "The Desert Sessions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_all_of_Music.md",
+            "file": "The Desert Sessions.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_all_of_Music.md",
+            "file": "The Desert Sessions.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -143,7 +143,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_all_of_Music.md"
+            "file": "The Desert Sessions.md"
           }
         }
       }
@@ -159,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cfa9d9c93197ff47",
+  "active": "76fc580df0e9ea05",
   "lastOpenFiles": [
-    "King Gizzard and the Lizard Wizard.md",
+    "12 bar bruise.md",
     "_all_of_Music.md",
+    "King Gizzard and the Lizard Wizard.md",
     "/_all_of_Music.md",
     "Joey Walker.md",
     "Hippie hourrah.md",

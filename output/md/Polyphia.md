@@ -1,7 +1,6 @@
 ---
 tags:
 - Group
-- Group
 ---
    
 [Tim Henson](./Tim%20Henson.md)   
@@ -32,4 +31,4 @@ Collaborators
 [Lil West](/not_created.md)   
 [Chino Moreno](/not_created.md)   
    
-`{_obsidian_pattern_tag_Group}`
+#Group

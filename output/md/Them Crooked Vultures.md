@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
    
 [Josh Homme](./Josh%20Homme.md)   

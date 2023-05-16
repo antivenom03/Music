@@ -1,7 +1,6 @@
 ---
 tags:
 - Group
-- Group
 ---
    
 [Kerry King](/not_created.md)   
@@ -11,4 +10,4 @@ tags:
 [Paul Bostaph](/not_created.md)   
 [Jon Dette](/not_created.md)   
 [Gary Holt](/not_created.md)   
-`{_obsidian_pattern_tag_Group}`
+#Group

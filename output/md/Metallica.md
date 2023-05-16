@@ -1,7 +1,6 @@
 ---
 tags:
 - Group
-- Group
 ---
    
 [James Hetfield](./James%20Hetfield.md)   
@@ -12,4 +11,4 @@ tags:
 [Ron McGovney](/not_created.md)   
 [Cliff Burton](/not_created.md)   
 [Jason Newstead](/not_created.md)   
-`{_obsidian_pattern_tag_Group}`
+#Group

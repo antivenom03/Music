@@ -1,7 +1,6 @@
 ---
 tags:
 - Group
-- Group
 ---
    
 Real Members   
@@ -30,4 +29,4 @@ Collaborators
 [Little Dragon](/not_created.md)   
 [Lou Reed](/not_created.md)   
    
-`{_obsidian_pattern_tag_Group}`
+#Group

@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
    
 [Queens of the Stone Age](./Queens%20of%20the%20Stone%20Age.md)   

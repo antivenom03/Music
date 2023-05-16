@@ -1,7 +1,6 @@
 ---
 tags:
 - Group
-- Group
 ---
    
 [Brendon Urie](/not_created.md)   
@@ -10,4 +9,4 @@ tags:
 [Dallon Weekes](./Dallon%20Weekes.md)   
 [Jon Walker](/not_created.md)   
 [Brent Wilson](/not_created.md)   
-`{_obsidian_pattern_tag_Group}`
+#Group

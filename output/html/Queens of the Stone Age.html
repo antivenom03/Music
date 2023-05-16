@@ -146,19 +146,29 @@
     }
 </script>
                                     <div onclick="openSearch()" class="theme-button requires_js">
-                <img src = "/Music/obs.html/static/search.svg" alt="Search notes" title="Search notes" style="margin: 4px;"/>
+            <img src = "/Music/obs.html/static/search.svg" alt="Search notes" title="Search notes" style="margin: 4px;"/>
         </div>
         <script>
-                function openSearch(){
-                        // toggle search popup and continue with extra code if it is enabled this time
-                        if (toggle_id('search-master-div')){
-                                // clear input and put focus on it so that we can start typing immediately
-                                let ss = document.getElementById('search_string');
-                                ss.value = '';
-                                ss.focus()
-                                ss.select()
-                        }
+            function openSearch(){
+                // toggle search popup and continue with extra code if it is enabled this time
+                if (toggle_id('search-master-div')){
+                    // get input field and temporarily disable it
+                    let ss = document.getElementById('search_string');
+                    ss.value = 'Seach data initializing...';
+                    ss.readOnly = true; 
+
+                    // load search data if not yet done so
+                    setTimeout(function(){
+                        LoadSearchData()
+
+                        // clear input and put focus on it so that we can start typing immediately
+                        ss.value = '';
+                        ss.readOnly = false; 
+                        ss.focus()
+                        ss.select()
+                    }, 100);
                 }
+            }
         </script>
                                     <div class="graph_header_div requires_js">
             <a id="graph_link" class="system-link" href="/Music/obs.html/graph/index.html?node=queens of the stone age" title="Open fullpage Graph">
@@ -268,7 +278,7 @@
 	<li><a class="" href="/Music/Paul Kahn.html"  >Paul Kahn</a></li>
 	<li><a class="" href="/Music/Pierce the Veil.html"  >Pierce the Veil</a></li>
 	<li><a class="" href="/Music/Polyphia.html"  >Polyphia</a></li>
-	<li><a class="" href="/Music/Queens of the Stone Age.html"  >Queens of the Stone Age</a></li>
+	<li><a class="active" href="/Music/Queens of the Stone Age.html"  >Queens of the Stone Age</a></li>
 	<li><a class="" href="/Music/Radiohead.html"  >Radiohead</a></li>
 	<li><a class="" href="/Music/Rainbow Kitten Surprise.html"  >Rainbow Kitten Surprise</a></li>
 	<li><a class="" href="/Music/Ryan Seaman.html"  >Ryan Seaman</a></li>
@@ -298,7 +308,7 @@
     </div>
 </div>
                         <div class="container">
-                                <embeddedtitle>Queens of the stone age</embeddedtitle>
+                                <embeddedtitle>Queens of the Stone Age</embeddedtitle>
 <div class="content"><p><a href="/Music/Josh%20Homme.html">Josh Homme</a> <br />
 <a href="/Music/not_created.html" class="nonexistent-link">Troy Van Lueeuwen</a> <br />
 <a href="/Music/not_created.html" class="nonexistent-link">Dean Fertita</a> <br />
@@ -310,8 +320,8 @@
 <a href="/Music/Dave%20Grohl.html">Dave Grohl</a> <br />
 <a href="/Music/not_created.html" class="nonexistent-link">Joey Castillo</a> <br />
 <a href="/Music/not_created.html" class="nonexistent-link">Alain Johannes</a> <br />
-<a href="/Music/not_created.html" class="nonexistent-link">Natasha Schneider</a> <br />
-<a class="inline-tag" href="/Music/obs.html/tags/Group/index.html">Group</a></p></div>
+<a href="/Music/not_created.html" class="nonexistent-link">Natasha Schneider</a>   </p>
+<h1 id="group">Group</h1></div>
 <div class="note-footer">
 <div class="backlinks">
 <h2>Backlinks</h2>
@@ -331,13 +341,13 @@
 
 </div>
 <div class="graph requires_js ">
-    <div id="A108846061911140923764745357453618330785{level}" class="graph_div"></div>
+    <div id="A191499378079240284492706557329860850726{level}" class="graph_div"></div>
     
     <div class="graph-button-row" style="display:flex;">
-        <button class="graph_button graph_show_button" id="B108846061911140923764745357453618330785{level}" level="{level}" note_temp_id="108846061911140923764745357453618330785" onclick="window.ObsHtmlGraph.run(this, '108846061911140923764745357453618330785', 'queens of the stone age');">
+        <button class="graph_button graph_show_button" id="B191499378079240284492706557329860850726{level}" level="{level}" note_temp_id="191499378079240284492706557329860850726" onclick="window.ObsHtmlGraph.run(this, '191499378079240284492706557329860850726', 'queens of the stone age');">
             Show Graph
         </button>
-        <button class="graph_button graph_type_button" id="C108846061911140923764745357453618330785{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+        <button class="graph_button graph_type_button" id="C191499378079240284492706557329860850726{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
             2D
         </button>
     </div>

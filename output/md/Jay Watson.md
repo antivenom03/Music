@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
    
 [Tame Impala](./Tame%20Impala.md)   

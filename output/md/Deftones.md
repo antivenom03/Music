@@ -1,7 +1,6 @@
 ---
 tags:
 - Group
-- Group
 ---
    
 [Chino Moreno](/not_created.md)   
@@ -12,4 +11,4 @@ tags:
 [Chi Cheng](/not_created.md)   
 [John Taylor](/not_created.md)   
 [Sergio Vega](/not_created.md)   
-`{_obsidian_pattern_tag_Group}`
+#Group

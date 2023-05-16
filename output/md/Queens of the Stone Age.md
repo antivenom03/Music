@@ -1,7 +1,6 @@
 ---
 tags:
 - Group
-- Group
 ---
    
 [Josh Homme](./Josh%20Homme.md)   
@@ -16,4 +15,4 @@ tags:
 [Joey Castillo](/not_created.md)   
 [Alain Johannes](/not_created.md)   
 [Natasha Schneider](/not_created.md)   
-`{_obsidian_pattern_tag_Group}`
+#Group

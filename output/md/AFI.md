@@ -1,7 +1,6 @@
 ---
 tags:
 - Group
-- Group
 ---
    
 [Adam Carson](/not_created.md)   
@@ -11,4 +10,4 @@ tags:
 [Mark Stopholese](/not_created.md)   
 [Vic Chalker](/not_created.md)   
 [Geoff Kresge](/not_created.md)   
-`{_obsidian_pattern_tag_Group}`
+#Group

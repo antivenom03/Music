@@ -1,7 +1,6 @@
 ---
 tags:
 - Group
-- Group
 ---
    
 [Eddie Van Halen](/not_created.md)   
@@ -12,4 +11,4 @@ tags:
 [Sammy Hagar](/not_created.md)   
 [Gary Cherone](/not_created.md)   
 [Wolfgang Van Halen](/not_created.md)   
-`{_obsidian_pattern_tag_Group}`
+#Group

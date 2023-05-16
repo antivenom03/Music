@@ -1,7 +1,6 @@
 ---
 tags:
 - Group
-- Group
 ---
    
 [Scott Ian](/not_created.md)   
@@ -27,4 +26,4 @@ tags:
 [Paul Crook](/not_created.md)   
 [Rob Caggiano](/not_created.md)   
 [Dan Nelson](/not_created.md)   
-`{_obsidian_pattern_tag_Group}`
+#Group

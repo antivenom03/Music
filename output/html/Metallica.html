@@ -146,19 +146,29 @@
     }
 </script>
                                     <div onclick="openSearch()" class="theme-button requires_js">
-                <img src = "/Music/obs.html/static/search.svg" alt="Search notes" title="Search notes" style="margin: 4px;"/>
+            <img src = "/Music/obs.html/static/search.svg" alt="Search notes" title="Search notes" style="margin: 4px;"/>
         </div>
         <script>
-                function openSearch(){
-                        // toggle search popup and continue with extra code if it is enabled this time
-                        if (toggle_id('search-master-div')){
-                                // clear input and put focus on it so that we can start typing immediately
-                                let ss = document.getElementById('search_string');
-                                ss.value = '';
-                                ss.focus()
-                                ss.select()
-                        }
+            function openSearch(){
+                // toggle search popup and continue with extra code if it is enabled this time
+                if (toggle_id('search-master-div')){
+                    // get input field and temporarily disable it
+                    let ss = document.getElementById('search_string');
+                    ss.value = 'Seach data initializing...';
+                    ss.readOnly = true; 
+
+                    // load search data if not yet done so
+                    setTimeout(function(){
+                        LoadSearchData()
+
+                        // clear input and put focus on it so that we can start typing immediately
+                        ss.value = '';
+                        ss.readOnly = false; 
+                        ss.focus()
+                        ss.select()
+                    }, 100);
                 }
+            }
         </script>
                                     <div class="graph_header_div requires_js">
             <a id="graph_link" class="system-link" href="/Music/obs.html/graph/index.html?node=metallica" title="Open fullpage Graph">
@@ -255,7 +265,7 @@
 	<li><a class="" href="/Music/Meg White.html"  >Meg White</a></li>
 	<li><a class="" href="/Music/Megadeth.html"  >Megadeth</a></li>
 	<li><a class="" href="/Music/Meshuggah.html"  >Meshuggah</a></li>
-	<li><a class="" href="/Music/Metallica.html"  >Metallica</a></li>
+	<li><a class="active" href="/Music/Metallica.html"  >Metallica</a></li>
 	<li><a class="" href="/Music/Michael Cavanagh.html"  >Michael Cavanagh</a></li>
 	<li><a class="" href="/Music/Mild High Club.html"  >Mild High Club</a></li>
 	<li><a class="" href="/Music/My Chemical Romance.html"  >My Chemical Romance</a></li>
@@ -306,8 +316,8 @@
 <a href="/Music/Dave%20Mustaine.html">Dave Mustaine</a> <br />
 <a href="/Music/not_created.html" class="nonexistent-link">Ron McGovney</a> <br />
 <a href="/Music/not_created.html" class="nonexistent-link">Cliff Burton</a> <br />
-<a href="/Music/not_created.html" class="nonexistent-link">Jason Newstead</a> <br />
-<a class="inline-tag" href="/Music/obs.html/tags/Group/index.html">Group</a></p></div>
+<a href="/Music/not_created.html" class="nonexistent-link">Jason Newstead</a>   </p>
+<h1 id="group">Group</h1></div>
 <div class="note-footer">
 <div class="backlinks">
 <h2>Backlinks</h2>
@@ -327,13 +337,13 @@
 
 </div>
 <div class="graph requires_js ">
-    <div id="A261322047381111198918793804385027122660{level}" class="graph_div"></div>
+    <div id="A248526819006998413287503324816082352027{level}" class="graph_div"></div>
     
     <div class="graph-button-row" style="display:flex;">
-        <button class="graph_button graph_show_button" id="B261322047381111198918793804385027122660{level}" level="{level}" note_temp_id="261322047381111198918793804385027122660" onclick="window.ObsHtmlGraph.run(this, '261322047381111198918793804385027122660', 'metallica');">
+        <button class="graph_button graph_show_button" id="B248526819006998413287503324816082352027{level}" level="{level}" note_temp_id="248526819006998413287503324816082352027" onclick="window.ObsHtmlGraph.run(this, '248526819006998413287503324816082352027', 'metallica');">
             Show Graph
         </button>
-        <button class="graph_button graph_type_button" id="C261322047381111198918793804385027122660{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+        <button class="graph_button graph_type_button" id="C248526819006998413287503324816082352027{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
             2D
         </button>
     </div>

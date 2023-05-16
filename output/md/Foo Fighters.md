@@ -1,7 +1,6 @@
 ---
 tags:
 - Group
-- Group
 ---
    
 [Dave Grohl](./Dave%20Grohl.md)   
@@ -12,4 +11,4 @@ tags:
 [William Goldsmith](/not_created.md)   
 [Franz Stahl](/not_created.md)   
 [Taylor Hawkins](/not_created.md)   
-`{_obsidian_pattern_tag_Group}`
+#Group

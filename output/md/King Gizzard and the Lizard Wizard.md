@@ -1,7 +1,6 @@
 ---
 tags:
 - Group
-- Group
 ---
    
 Members   
@@ -14,4 +13,4 @@ Members
 [Eric Moore](./Eric%20Moore.md)   
 Albums   
 [12 bar bruise](./12%20bar%20bruise.md)   
-`{_obsidian_pattern_tag_Group}`
+#Group

@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
    
 [Ambrose Kenny-Smith](./Ambrose%20Kenny-Smith.md)   

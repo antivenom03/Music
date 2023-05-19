@@ -11,13 +11,8 @@
             "id": "76fc580df0e9ea05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Desert Sessions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             },
             "group": "50e68526b2cd02b6"
           }
@@ -33,7 +28,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Desert Sessions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +108,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "The Desert Sessions.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +124,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "The Desert Sessions.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -142,9 +134,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "The Desert Sessions.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -159,8 +149,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76fc580df0e9ea05",
+  "active": "cfa9d9c93197ff47",
   "lastOpenFiles": [
+    "Gorillaz.md",
+    "The Desert Sessions.md",
     "12 bar bruise.md",
     "_all_of_Music.md",
     "King Gizzard and the Lizard Wizard.md",
